@@ -1,0 +1,7 @@
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_Khoa_SV\CaoNguyenVu_0162_Khoa_SV\bin\Debug\CaoNguyenVu_0162_Khoa_SV.exe.config
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_Khoa_SV\CaoNguyenVu_0162_Khoa_SV\bin\Debug\CaoNguyenVu_0162_Khoa_SV.exe
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_Khoa_SV\CaoNguyenVu_0162_Khoa_SV\bin\Debug\CaoNguyenVu_0162_Khoa_SV.pdb
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_Khoa_SV\CaoNguyenVu_0162_Khoa_SV\obj\Debug\CaoNguyenVu_0162_Khoa_SV.csproj.AssemblyReference.cache
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_Khoa_SV\CaoNguyenVu_0162_Khoa_SV\obj\Debug\CaoNguyenVu_0162_Khoa_SV.csproj.CoreCompileInputs.cache
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_Khoa_SV\CaoNguyenVu_0162_Khoa_SV\obj\Debug\CaoNguyenVu_0162_Khoa_SV.exe
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_Khoa_SV\CaoNguyenVu_0162_Khoa_SV\obj\Debug\CaoNguyenVu_0162_Khoa_SV.pdb
